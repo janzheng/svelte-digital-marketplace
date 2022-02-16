@@ -70,10 +70,10 @@ module.exports = {
       }
     },
     fontFamily: {
-      'sans': ['"ModelSans"', 'sans-serif'],
-      'serif': ['"Calluna"', 'serif'],
-      'mono': ['"ModelMono"', 'monospace'],
-      'display': ['"Calluna"', 'serif'],
+      'sans': ['sans-serif'],
+      'serif': ['serif'],
+      'mono': ['monospace'],
+      'display': ['serif'],
     },
   },
   variants: {
